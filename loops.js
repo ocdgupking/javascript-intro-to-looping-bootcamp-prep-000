@@ -5,3 +5,4 @@ function forLoop(){
   }
     else console.log ("I am ${i} strange loops");
 }
+}
